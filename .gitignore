@@ -1,0 +1,3 @@
+
+# ignoramos el node_modules que poemos iniciarlo la próxima vez
+node_modules/
