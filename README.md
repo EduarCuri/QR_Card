@@ -1,4 +1,4 @@
-# CARD DE INFORMACIÓN QR
+<h1 align="center">CARD DE INFORMACIÓN QR</h1>
 
 El diseño del card es muy llamativo, puede servir como medio publicitario hacia una marca o algún producto. La sombra que tiene de fondo resalta el elemento combinando la estetica del fondo del código QR.
 
