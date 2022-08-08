@@ -12,7 +12,10 @@ El card mantiene sus dimensiones en la versión desktop y se mantienen centrado 
 
 El card tiene sus propias dimensiones en la versión movil que no se ve alterada por el tamaño del dispositivo.
 
+<h3 align="center">
 ![card QR version mobile](./images/design_mobile.png)
+</h3>
+
 
 
 
