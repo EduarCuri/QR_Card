@@ -16,6 +16,6 @@ El card tiene sus propias dimensiones en la versión movil que no se ve alterada
 
 
 
-# ELABORACIÓN DEL PROYECTO
+# Elaboración del proyecto
 
 El proyecto fue realizado con HTML, CSS y SASS.
