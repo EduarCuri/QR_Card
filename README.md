@@ -12,8 +12,8 @@ El card mantiene sus dimensiones en la versión desktop y se mantienen centrado 
 
 El card tiene sus propias dimensiones en la versión movil que no se ve alterada por el tamaño del dispositivo.
 
-<h3 align="center">
-  <img src="./images/design_mobile.png" />
+<h3 align="center" style="border-radius: 10px;">
+  <img src="./images/design_mobile.png" style="border-radius: 10px;"/>
 </h3>
 
 
